@@ -35,11 +35,11 @@ Description: Developed a full-stack e-commerce website using React and Node.js.
 
 ## Connect with Me
 
-- [GitHub](https://github.com/your_username)
-- [LinkedIn](https://www.linkedin.com/in/your_username/)
+- [GitHub](https://github.com/richie_99999)
+- [LinkedIn](https://www.linkedin.com/in/richie_99999/)
 - [Email](mailto:your_email@example.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie_99999&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richie_99999&show_icons=true&count_private=true)
 
